@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rzSKuPjxKwQpLlWUaZL9JK1zHnvt2Qzzjtnk61UCjDE=",
+  "Source": "WPSApi",
+  "BasePath": "_content/WPSApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

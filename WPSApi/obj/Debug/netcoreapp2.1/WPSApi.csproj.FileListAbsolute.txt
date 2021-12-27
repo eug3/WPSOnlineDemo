@@ -1,0 +1,5 @@
+D:\webCode\WPSOnline\WPSApi\obj\Debug\netcoreapp2.1\WPSApi.csproj.AssemblyReference.cache
+D:\webCode\WPSOnline\WPSApi\obj\Debug\netcoreapp2.1\WPSApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\webCode\WPSOnline\WPSApi\obj\Debug\netcoreapp2.1\WPSApi.AssemblyInfoInputs.cache
+D:\webCode\WPSOnline\WPSApi\obj\Debug\netcoreapp2.1\WPSApi.AssemblyInfo.cs
+D:\webCode\WPSOnline\WPSApi\obj\Debug\netcoreapp2.1\WPSApi.csproj.CoreCompileInputs.cache
