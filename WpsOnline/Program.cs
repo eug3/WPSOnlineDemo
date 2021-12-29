@@ -1,30 +1,24 @@
 using log4net.Config;
 using log4net.Repository;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration.Json;
 using WpsOnline.Core;
 
 
 
  
 
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 //builder.Services.AddRazorPages();
-builder.Services.AddCors(p =>
-{
-    p.AddPolicy("wps", policy =>
-    {
-        policy.AllowAnyOrigin()
-              .AllowAnyMethod()
-              .AllowAnyHeader()
-              .AllowCredentials();
-    });
-});
+
 builder.Services.AddControllers();
 
- builder.Services.add
+
+IConfiguration _config = new ConfigurationBuilder().Add(new JsonConfigurationSource { Path = "appsettings.json", ReloadOnChange = true }).Build();
+
+builder.Configuration.AddConfiguration(_config);
 
 var app = builder.Build();
 

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b98b5653-3584-405e-a67e-71bac1681546": {
+      "ProjectGuid": "b98b5653-3584-405e-a67e-71bac1681546",
+      "DisplayName": "WPSApi",
+      "ColorIndex": 0
+    },
+    "6e34048d-75f6-44ab-a8ee-46d7428e0bb1": {
+      "ProjectGuid": "6e34048d-75f6-44ab-a8ee-46d7428e0bb1",
+      "DisplayName": "WpsOnline",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

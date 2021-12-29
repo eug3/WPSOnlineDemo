@@ -17,12 +17,13 @@ namespace WpsOnline.Helper
         /// <summary>
         /// AppId
         /// </summary>
-        private static string AppId = string.Empty;
-
+        private static string AppId = "f4f6e039e79c4836a5c21112cd35dc9f";// string.Empty;
+                                                                         //   "AppId": "f4f6e039e79c4836a5c21112cd35dc9f",
+                                                                         // "AppSecretKey": "7e04b7d6c9d441e785ce7187d842e251"
         /// <summary>
         /// AppKey
         /// </summary>
-        private static string AppSecretKey = string.Empty;
+        private static string AppSecretKey = "7e04b7d6c9d441e785ce7187d842e251";// string.Empty;
 
         /// <summary>
         /// 配置AppId和Appkey
@@ -31,6 +32,7 @@ namespace WpsOnline.Helper
         /// <param name="appSecretKey"></param>
         public static void Config(string appId, string appSecretKey)
         {
+             
             AppId = appId;
             AppSecretKey = appSecretKey;
         }

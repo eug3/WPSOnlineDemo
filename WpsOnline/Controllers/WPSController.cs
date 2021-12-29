@@ -119,7 +119,7 @@ namespace WpsOnline.Controllers
                         creator = "创建者用户名",
                         modify_time = now,
                         modifier = "修改者用户名",
-                        download_url = @"http://localhost:14721/评估软件.docx",
+                        download_url = @"http://beijihuwps.vaiwan.com/评估软件.docx",
                         user_acl = new User_acl
                         {
                             history = 1, // 允许查看历史版本

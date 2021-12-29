@@ -25,3 +25,4 @@ D:\webCode\WPSOnline\WpsOnline\obj\Debug\net6.0\WpsOnline.dll
 D:\webCode\WPSOnline\WpsOnline\obj\Debug\net6.0\ref\WpsOnline.dll
 D:\webCode\WPSOnline\WpsOnline\obj\Debug\net6.0\WpsOnline.pdb
 D:\webCode\WPSOnline\WpsOnline\obj\Debug\net6.0\WpsOnline.genruntimeconfig.cache
+D:\webCode\WPSOnline\WpsOnline\obj\Debug\net6.0\WpsOnline.csproj.AssemblyReference.cache
